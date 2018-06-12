@@ -6,5 +6,5 @@ import java.util.List;
 
 @Service
 public interface NumberGeneratorService {
-    public List<Double> generateNumbers(int number);
+    List<Double> generateNumbers(int number);
 }

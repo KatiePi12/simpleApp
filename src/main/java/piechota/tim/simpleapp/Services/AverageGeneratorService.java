@@ -6,5 +6,5 @@ import java.util.List;
 
 @Service
 public interface AverageGeneratorService {
-    public Double generateAverage(List<Double> numberList);
+   Double generateAverage(List<Double> numberList);
 }
